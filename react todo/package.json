@@ -22,7 +22,10 @@
     "eslint": "^9.39.1",
     "eslint-plugin-react-hooks": "^7.0.1",
     "eslint-plugin-react-refresh": "^0.4.24",
+<<<<<<< HEAD
     "gh-pages": "^6.3.0",
+=======
+>>>>>>> 919e7d8e1df7c99233f8c1c60cac9e21776863bb
     "globals": "^16.5.0",
     "vite": "^7.2.4"
   }
